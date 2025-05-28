@@ -1,9 +1,5 @@
 #!/bin/bash
 
-# Script de génération de rapports consolidés pour conformité RGPD
-# Auteur: Système automatisé RGPD
-# Description: Génère des rapports de CA consolidés (production + archive) par période
-
 set -euo pipefail
 
 # Forcer la locale anglaise pour éviter les problèmes de formatage des nombres

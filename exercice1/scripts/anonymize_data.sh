@@ -1,9 +1,5 @@
 #!/bin/bash
 
-# Script d'anonymisation automatique pour conformité RGPD
-# Auteur: Système automatisé RGPD
-# Description: Anonymise et archive les données personnelles selon les durées de conservation
-
 set -euo pipefail
 
 # Configuration
