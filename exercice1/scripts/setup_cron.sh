@@ -1,9 +1,5 @@
 #!/bin/bash
 
-# Script de configuration des tâches cron pour la conformité RGPD
-# Auteur: Système automatisé RGPD
-# Description: Configure les tâches automatisées d'anonymisation et de rapports
-
 set -euo pipefail
 
 # Configuration
